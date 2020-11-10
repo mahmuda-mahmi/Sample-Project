@@ -1,0 +1,29 @@
+.heading{
+    color: rgb(88, 86, 71);
+}
+.paragraph{
+    border: 2px solid teal;
+    font-style: oblique;
+    font-family: cursive;
+}
+.parentP{
+    color:rgb(88, 81, 15);
+}
+.rock{
+    color:rgb(21, 39, 21);
+}
+.parent{
+    margin: 20px;
+    padding:20px;
+}
+.customDiv{
+    width:70% ;
+    border:3px solid rgb(8, 98, 139) ;
+    padding:22px;
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.countryname{
+    color: rgb(16, 138, 111);
+}
+
