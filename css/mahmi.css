@@ -10,3 +10,10 @@ font-size: 20px;
 #second {
 color:red;
 }
+
+.mahu{
+    font-size: 100px;
+    color: red;
+    margin: 15px 30px;
+    padding: 15px 20px 30px 40px;
+}
